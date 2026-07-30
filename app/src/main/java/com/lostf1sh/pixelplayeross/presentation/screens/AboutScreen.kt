@@ -121,8 +121,8 @@ private data class Contributor(
 )
 
 private val CoreMaintainer = Contributor(
-    id = "narutoooo-dev",
-    displayName = "@narutoooo-dev",
+    id = "narutoooo",
+    displayName = "@narutoooo",
     role = "FOSS Maintainer",
     detail = "Maintains PixelPlayerOSS. GitHub: @narutoooo-dev and Telegram: @d_b_if.",
     avatarUrl = "https://github.com/narutoooo-dev.png",
